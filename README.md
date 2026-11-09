@@ -1,2 +1,2 @@
 # Core
-Super Repoo
+Super Repo.
